@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit Raj. I have done graduation from Jadavpur University in Electronics & Instrumentation.
 - 👀 I’m interested in Deep Learning , Python , Kali Linux , Selenium.
--     I have worked on Python (Dash , Scrapy , Socket Programming ), Ethical Hacking , Selenium , REST API.
+-     I have worked on Python (Dash , Scrapy , Socket Programming ), Ethical Hacking , Selenium , REST API , SPLUNK.
 - 🌱 I’m currently learning CNN , Advanced Python , MySQL.
 - 💞️ I’m looking to collaborate on Deep Learning , Solving Challenging Problem.
 -     1. I have written scripts in python that can add Movie to your google drive from olamovies.us automatically bypassing any link shortner/ad.
