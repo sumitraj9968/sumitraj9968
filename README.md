@@ -8,6 +8,7 @@
       3. I have written python script to create premium client for gamebench pro desktop and mobile application.
       4. I have written anti recoil script in lua for shooting games like PUBG,Fortnite etc.
       5. I have created keylogger.
+      Will be Uploading my work Shortly.
 - 📫 How to reach me ...
       Mobile - 8240935491 Email - sumitraj9968@gmail.com LinkedIN - https://www.linkedin.com/in/sumit-raj-829320171/
 
