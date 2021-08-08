@@ -9,9 +9,7 @@
       4. I have written anti recoil script in lua for shooting games like PUBG,Fortnite etc.
       5. I have created keylogger.
 - 📫 How to reach me ...
-      1. Mobile - 8240935491
-      2. Email - sumitraj9968@gmail.com
-      3. LinkedIN - https://www.linkedin.com/in/sumit-raj-829320171/
+      Mobile - 8240935491 Email - sumitraj9968@gmail.com LinkedIN - https://www.linkedin.com/in/sumit-raj-829320171/
 
 <!---
 sumitraj9968/sumitraj9968 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
